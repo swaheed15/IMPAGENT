@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain_community
+langchain_groq
+xmltodict
+scholarly
+requests
+bs4
+validators
+pypdf
+pypi 
+pymupdf
+unstructured
+python-dotenv
+langsmith
+
